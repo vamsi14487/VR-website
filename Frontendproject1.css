@@ -1,0 +1,315 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.vr-logo {
+    height: 35px;
+    width: 50px;
+}
+.banner-section-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 600;
+
+}
+.vr-button {
+    color: white; 
+    background-color: #1a2137;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.vr_Website_features_section_card {
+    text-align: center;
+}
+
+.vr_Website_features_section_heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.vr_Website_features_section_sub_img {
+    height: 55px;
+    width: 55px;
+}
+
+.vr-features-card-title {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 24px;
+}
+
+.vr-features-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.for_highlight {
+    font-weight: bold;
+    color: #1f2933;
+    font-style: italic;
+}
+
+.vr_website_kit_section {
+    background-color: #f9fbfe;
+    background-size: cover;
+}
+
+.vr_website_kit_section_head {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #1f2933;
+}
+
+.vr_website_kit_section_img {
+    height: 250px;
+    width: 220px;
+}
+
+.vr_website_kit_section_para {
+    font-size: 20px;
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+.vr_website_optics_and_controllers_section_heads {
+    font-size: 28px;
+    color: #1f2933;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.vr_website_optics_and_controllers_section_img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.vr_website_optics_and_controllers_section_para {
+    font-size: 18px;
+    color: #7b8794;
+    font-family: "Roboto";
+}
+
+.vr_website_optics_and_controllers_section_btn {
+    background-color: #1a2137;
+    width: 120px;
+    height: 45px;
+    font-family: "Roboto";
+}
+
+.contact_us_sec {
+    background-color: #222b36;
+    text-align: center;
+}
+
+.contact_us_sec_head {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Roboto";
+}
+
+.contact_us_sec_img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+.trending_blogs_sec_head {
+    color: #1f2933;
+    font-size: 40px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.trending_blogs_sec_sub_head {
+    color: #959ead;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.trending_blogs_sec_para {
+    color: #323f4b;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.trending_blogs_sec_img {
+    width: 100%;
+}
+
+.trending_blogs_sec_explore {
+    color: #1754a1;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.trending_blogs_sec_btn {
+    color: white;
+    background-color: #1754a1;
+    font-family: "Roboto";
+    font-size: 16px;
+    width: 140px;
+    height: 40px;
+}
+
+
+.products_sec_main_head {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.products_sec_card {
+    width: 100%;
+    height: 600px;
+}
+
+.products_sec_vr_headset {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+}
+
+.products_sec_vr_controllers {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+}
+.products_sec_vr_controllers1 {
+    
+    background-image: url("Jio.png");
+    background-size: cover;
+  
+    background-position: center;
+}
+.products_sec_vr_controllers2 {
+    background-image: url("https://img.freepik.com/premium-photo/vr-glasses-dark-background-innovative-virtual-reality-technologies-3d-rendering_503815-620.jpg");
+    background-size: cover;
+    background-position: left;
+}
+.products_sec_head {
+    color: white;
+    font-size: 40px;
+    font-family: "Roboto";
+}
+
+.products_sec_price {
+    color: white;
+    font-size: 22px;
+    font-family: "Roboto";
+    font-weight: 100px;
+}
+
+.products_sec_buy_now_btn {
+    width: 120px;
+}
+
+.products_sec_view_all_btn {
+    width: 140px;
+    height: 40px;
+    background-color: #1754a1;
+}
+
+.footer_sec_copyright {
+    color: #959ead;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.line {
+    background-color: #5a7184;
+}
+
+.footer_sec_list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.footer_sec_contact_us {
+    color: #5a7184;
+    font-size: 16px;
+    font-family: "Roboto";
+    margin-bottom: 5px;
+}
+
+.icon1 {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.footer_sec_side-head {
+    color: #5a7184;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.footer_sec_logo {
+    width: 56px;
+    height: 36px;
+}
+
+.footer_sec_social {
+    background-color: #202b36;
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 15px;
+}
+
+.icon {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.footer_sec_address {
+    color: #5a7184;
+    font-size: 16px;
+    font-family: "Roboto";
+    margin-bottom: 5px;
+}
+
+.footer_sec {
+    background-color: #19232d;
+    background-size: cover;
+}
+
+.content{
+    margin-top: -55px;
+    visibility: hidden;
+    margin-left: -15px;
+}
+
+
+.navbar-nav a
+{
+   
+   border-radius: 10px;
+   margin: 10px;
+}
+
+
+.navbar-nav a:hover
+{
+    background-color: #86aecf;
+    border: none;
+   
+}
+
